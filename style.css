@@ -1,0 +1,15 @@
+body {
+    background-image: url(https://st3.depositphotos.com/11618586/i/600/depositphotos_327660362-stock-photo-fog-colored-bright-pink-blue.jpg) !important;
+}
+#score{
+    font-size: 20px;
+    margin-left: auto;
+}
+#timer {
+    font-size: 20px;
+    float: right;
+    margin-right: auto;
+}
+#sketch_to_be_drawn {
+    color: black;
+}
